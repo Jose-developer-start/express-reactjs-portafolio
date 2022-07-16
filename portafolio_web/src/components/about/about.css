@@ -1,0 +1,10 @@
+.about{
+    margin: 90px 0px;
+}
+
+.about__description{
+    font-size: 18px;
+    margin: 20px 0px;
+    line-height: 1.5;
+    color: #2d3748;
+}

@@ -1,0 +1,21 @@
+{
+  "name": "api-rest-express",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon ./src/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.5.1",
+    "express": "^4.7.1",
+    "method-override": "^2.1.2",
+    "nodemon": "^2.0.19"
+  },
+  "devDependencies": {
+    "mongoose": "^6.4.4"
+  }
+}

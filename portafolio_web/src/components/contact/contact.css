@@ -1,0 +1,32 @@
+.contact{
+    margin: 90px 0px;
+}
+
+.contact__description{
+    font-size: 18px;
+    color: #2d3748;
+    margin: 20px 0px;
+    line-height: 1.5;
+}
+
+.contact__redes p{
+    margin: 20px 0px;
+    font-size: 18px;
+}
+
+.contact__redes ul{
+    margin: 20px;
+    padding: 0;
+}
+
+.contact__redes ul li{
+    font-size: 18px;
+    color: #2d3748;
+    margin: 10px 0px;
+}
+.contact__redes ul li a{
+    text-decoration: none;
+}
+.contact__redes ul li a:hover{
+    text-decoration: underline;
+}
